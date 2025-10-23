@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    list-style: none;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: xx-large;
+    border: 2px solid white;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    width: 375px;
+    height: 35px;
+    color: white;
+}
+
+.img-1{
+    background-image: url(jeremy-bishop-EwKXn5CapA4-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+
+.img-2{
+    background-image: url(mink-mingle-g0Qdolm3K14-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+.img-3{
+    background-image: url(jerry-zhang-ePpaQC2c1xA-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+
+.img-4{
+    background-image: url(boudhayan-bardhan-60tataLkJ0U-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;;
+}
+
+.text{
+    padding: 200px;
+}
