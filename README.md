@@ -1,12 +1,12 @@
 # 🌄 Efeito Parallax Scrolling – Página de Exploração da Natureza  
 
-Este projeto apresenta uma página web com **efeito Parallax Scrollinh** criada com **HTML** e **CSS**, destacando diferentes paisagens naturais — **natureza**, **praias**, **montanhas** e **florestas** — com seções que proporcionam uma experiência visual imersiva ao rolar a página.  
+Este projeto apresenta uma página web com **efeito Parallax Scrolling** criada com **HTML** e **CSS**, destacando diferentes paisagens naturais — **natureza**, **praias**, **montanhas** e **florestas** — com seções que proporcionam uma experiência visual imersiva ao rolar a página.  
 
 ---
 
 ## 🖼️ Demonstração  
 
-O efeito Parallax Scrollinh faz com que as imagens de fundo se movam em uma velocidade diferente do conteúdo em primeiro plano, criando uma **sensação de profundidade**.  
+O efeito Parallax Scrolling faz com que as imagens de fundo se movam em uma velocidade diferente do conteúdo em primeiro plano, criando uma **sensação de profundidade**.  
 
 As seções incluem:  
 1. **Explore a natureza** 🌿  
@@ -21,7 +21,7 @@ Além disso, há um **botão flutuante de retorno ao topo** com ícone do **Boot
 ## 🧩 Tecnologias Utilizadas  
 
 - **HTML** – Estrutura da página  
-- **CSS** – Estilo e efeito Parallax Scrollinh  
+- **CSS** – Estilo e efeito Parallax Scrolling  
 - **Bootstrap Icons** – Ícones vetoriais modernos  
 - **Google Fonts (Georgia)** – Tipografia clássica e elegante  
 
@@ -29,7 +29,7 @@ Além disso, há um **botão flutuante de retorno ao topo** com ícone do **Boot
 
 ## ⚙️ Funcionalidades  
 
-✅ Efeito Parallax Scrollinh com imagens de fundo fixas  
+✅ Efeito Parallax Scrolling com imagens de fundo fixas  
 ✅ Layout responsivo e elegante  
 ✅ Botão flutuante para “Voltar ao topo”  
 ✅ Transição suave no hover do botão  
